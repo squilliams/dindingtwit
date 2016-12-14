@@ -26,10 +26,10 @@
 
 	use Abraham\TwitterOAuth\TwitterOAuth;
 
-	define('CONSUMER_KEY', '2RKpxEXkTDYQKI6mWawoJshUB'); 
-	define('CONSUMER_SECRET', 'CYM2cwx2fGFoFOs2PAljrwZsvNLZQtRasvxic22tH1L0pCio99'); 
-	define('ACCESS_TOKEN', '35653131-N94pSSJG6ap7ZfLdzwKBvLcTXRs6o4F278tYtustG'); 
-	define('ACCESS_TOKEN_SECRET', 'GkUGD7YL5kS194mLWmy4j0mcD7UVT9RptOnb0DHdpWHAc'); 
+	define('CONSUMER_KEY', '<>'); 
+	define('CONSUMER_SECRET', '<>'); 
+	define('ACCESS_TOKEN', '35653131-<>'); 
+	define('ACCESS_TOKEN_SECRET', '<>'); 
 
 	function search($query)
 	{
